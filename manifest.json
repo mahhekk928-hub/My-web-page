@@ -1,0 +1,17 @@
+{
+  "name": "NEET 720 Study OS",
+  "short_name": "NEET 720",
+  "description": "Your complete NEET 2027 study planner — chapters, spaced repetition, pomodoro & more",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#080808",
+  "theme_color": "#080808",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "categories": ["education", "productivity"],
+  "screenshots": [],
+  "lang": "en"
+}
